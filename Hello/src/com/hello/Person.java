@@ -1,7 +1,7 @@
 package com.hello;
 
 public class Person {
-	int bid;
+	int pid;
 	String name;
 
 }
